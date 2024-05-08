@@ -18,5 +18,4 @@ Output Screenshots: [Pg1](https://i.postimg.cc/tCYvWX9v/screenshot1.png) [Pg2](h
 
 ## File Structure
 - `main.cpp`: The main application code includes the logic for menu options and handling of different personnel types.
-- `Person.h`: Definition of the base class Person and derived classes (Laborer, Manager, Owner).
 - `data.txt`: Data file where personnel information is stored and retrieved upon program startup.
